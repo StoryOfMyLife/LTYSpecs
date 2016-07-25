@@ -1,0 +1,2 @@
+# LTYSpecs
+Personal spec repo.
